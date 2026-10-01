@@ -1,0 +1,45 @@
+h1 {
+  color: red;
+  background-color: blanchedalmond;
+  font-size: 30px;
+}
+p {
+  color: blue;
+  background-color: blanchedalmond;
+  font-size: 20px;
+}
+.hn1 {
+  color: blue;
+  background-color: blanchedalmond;
+  font-size: 13px;
+  font-family: "verdana", Times, serif;
+  font-style: italic;
+}
+.hn2 {
+  color: blue;
+  background-color: blanchedalmond;
+  font-size: 13px;
+  font-family: "tahoma", Times, serif;
+  font-style: italic;
+}
+.hn3 {
+  color: orange;
+  background-color: blanchedalmond;
+  font-size: 13px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.hn4 {
+  color: blue;
+  background-color: blanchedalmond;
+  font-size: 13px;
+  font-family: "verdana", Times, serif;
+  font-style: italic;
+}
+ul {
+  color: rgb(89, 89, 121);
+  background-color: blanchedalmond;
+  font-size: 13px;
+  font-family: "verdana", Times, serif;
+  font-style: italic;
+}
